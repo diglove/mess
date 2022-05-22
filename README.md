@@ -8,3 +8,22 @@ Initially created for practice with markdown, specifically how to use relative p
 - [ ] How users can get started with the project
 - [ ] Where users can get help with your project
 - [ ] Who maintains and contributes to the project
+- [ ] Workflow understanding
+- [ ] Workflow status badges
+  - [ ] Build Status badge
+- [ ] Mathematical symbols 
+- [ ] Stylized text
+- [ ] Code blocks
+- [ ] Quoting code
+- [ ] gists
+- [ ] links
+  - [ ] Relative Links
+- [ ] gitignore
+- [ ] config
+- [ ] best practices
+- [ ] controlling edits
+- [ ] image theme specification
+- [ ] emojis
+- [ ] footnotes
+- [ ] hidden content
+- [ ] the rest of github docs
