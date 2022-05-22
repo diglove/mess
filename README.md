@@ -27,3 +27,6 @@ Initially created for practice with markdown, specifically how to use relative p
 - [ ] footnotes
 - [ ] hidden content
 - [ ] the rest of github docs
+- [ ] pull requests
+- [ ] commits
+- [ ] public/private
